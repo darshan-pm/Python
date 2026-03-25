@@ -1,1 +1,1 @@
-#This repository contains my python programms from basics to advance 
+#This repository contains my python programs from basics to advance 
